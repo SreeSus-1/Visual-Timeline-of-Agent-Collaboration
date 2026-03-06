@@ -41,27 +41,6 @@ These agents simulate a collaborative reasoning workflow.
 
 --------------------------------------------------
 
-SYSTEM ARCHITECTURE
-
-User Input
-    |
-    v
-Research Agent
-    |
-    v
-Summarizer Agent
-    |
-    v
-Critic Agent
-    |
-    v
-Logs stored with timestamps
-    |
-    v
-Streamlit UI renders timeline visualization
-
---------------------------------------------------
-
 KEY FEATURES
 
 - Agent Collaboration Tracking
