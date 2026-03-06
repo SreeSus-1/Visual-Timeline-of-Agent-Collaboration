@@ -94,8 +94,7 @@ INSTALLATION
 
 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/agent-timeline-visualizer.git
-
+git clone ""
 Move into the project folder
 
 cd agent-timeline-visualizer
