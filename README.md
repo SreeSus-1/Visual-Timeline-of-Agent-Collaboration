@@ -71,25 +71,6 @@ JSON logging
 
 --------------------------------------------------
 
-PROJECT STRUCTURE
-
-agent-timeline-visualizer
-|
-|-- agents
-|     |-- research_agent.py
-|     |-- summarizer_agent.py
-|     |-- critic_agent.py
-|
-|-- logs
-|     |-- agent_logs.json
-|
-|-- orchestrator.py
-|-- timeline_view.py
-|-- requirements.txt
-|-- README.md
-
---------------------------------------------------
-
 INSTALLATION
 
 Clone the repository
